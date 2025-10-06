@@ -66,7 +66,7 @@ coupon-acceptance-project/
    ```
 4. Launch Jupyter and open the notebook:
    ```bash
-   jupyter notebook notebooks/Practical_Application_1.ipynb
+   jupyter notebook notebooks/amazon_coupon_acceptance.ipynb
    ```
 5. Run all cells to reproduce the analysis and charts.
 
