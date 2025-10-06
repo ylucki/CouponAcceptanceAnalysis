@@ -9,7 +9,7 @@ Using Python (pandas, NumPy) and visualizations (Matplotlib + Seaborn used in-no
   - "Right away" or "Later, before the coupon expires" → **Y = 1 (accepted)**
   - "No, I do not want the coupon" → **Y = 0 (rejected)**
 
-## Quick, Nontechnical Findings
+## Quick Findings
 - Overall acceptance rate: 56.84%
 - Highest acceptance: **Carry out & Take away** (73.5%); Lowest: **Bar** (41.0%).
 - By time: top = **2PM** (66.2%); bottom = **7AM** (50.2%).
@@ -17,8 +17,7 @@ Using Python (pandas, NumPy) and visualizations (Matplotlib + Seaborn used in-no
 - By destination: top = **No Urgent Place** (63.4%); bottom = **Work** (50.2%).
 - By expiration: top = **1d** (62.6%); bottom = **2h** (49.6%).
 
-**Findings and Recommendations**
-Based on the analysis:
+**Based on the the data analysis:**
 
 - Coupon Type Matters: "Carry out & Take away" and "Restaurant(<20)" coupons have significantly higher acceptance rates compared to "Coffee House," "Restaurant(20-50)," and "Bar" coupons. Focus on promoting the higher-performing coupon types.
 - Context is Key: Acceptance varies based on context variables:
@@ -37,7 +36,7 @@ Based on the analysis:
 - Numerical Distributions: Examine the distributions of numerical features like temperature and distance to coupon to understand if they differ between accepted and rejected groups, which could inform further targeting strategies.
 
 
-## Link to notebook: (https://github.com/ylucki/CouponAcceptanceAnalysis/blob/main/notebooks/amazon_coupon_acceptance.ipynb)
+## Link to Notebook: [amazon_coupon_acceptance.ipynb](https://github.com/ylucki/CouponAcceptanceAnalysis/blob/main/notebooks/amazon_coupon_acceptance.ipynb)
 ## Project Structure
 ```
 coupon-acceptance-project/
