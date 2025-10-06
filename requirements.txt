@@ -1,0 +1,6 @@
+Python 3.13.5
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
