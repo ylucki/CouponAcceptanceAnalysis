@@ -43,17 +43,18 @@ coupon-acceptance-project/
 ├─ data/
 │  └─ coupons.csv
 ├─ images/
-│  ├─ acceptance_by_coupon.png
-│  ├─ acceptance_by_time.png
-│  ├─ acceptance_by_weather.png
-│  ├─ acceptance_by_passenger.png
+│  ├─ acceptance_by_coupon_type.png
 │  ├─ acceptance_by_destination.png
-│  └─ acceptance_by_expiration.png
+│  ├─ acceptance_by_expiration.png
+│  ├─ correlation_heatmap.png
+│  ├─ age_distribution_by_acceptance.png
+│  └─ ... (other exploratory and distribution plots)
 ├─ notebooks/
-│  └─ Practical_Application_1.ipynb
+│  └─ amazon_coupon_acceptance.ipynb
 ├─ requirements.txt
 ├─ .gitignore
 └─ README.md
+
 ```
 
 ## How to Run Locally
