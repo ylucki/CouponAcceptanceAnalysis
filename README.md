@@ -1,4 +1,4 @@
-# Coupon Acceptance Analysis (Practical Application)
+# Coupon Acceptance Analysis 
 
 This repository answers a simple question: **Will a customer accept the coupon?**  
 Using Python (pandas, NumPy) and visualizations (Matplotlib + Seaborn used in-notebook), we explore acceptance patterns across coupon types and driving context (time, weather, passengers, destination, etc.).
